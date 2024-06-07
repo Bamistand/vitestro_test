@@ -16,7 +16,7 @@ jobs:
 
     - name: Build code
       run: |
-        cmake -B build -S .
+        cmake -B build -S dev_application
         cd build
         make
 
