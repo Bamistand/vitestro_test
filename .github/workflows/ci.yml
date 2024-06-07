@@ -1,4 +1,4 @@
-name: Code CI
+name: Solution CI
 
 on:
   push:
@@ -16,16 +16,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Change to working directory
+        run: cd dev_application
+
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y cmake make g++
 
       - name: Build the code
         run: |
+          cd dev_application
           cmake -B build -S .
           cd build
           make
 
       - name: Run tests
         run: |
-          cd build
+          cd dev_application/build
           make test || ./test/assignment_test
