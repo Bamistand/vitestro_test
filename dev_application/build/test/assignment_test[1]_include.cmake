@@ -1,0 +1,5 @@
+if(EXISTS "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test[1]_tests.cmake")
+  include("/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test[1]_tests.cmake")
+else()
+  add_test(assignment_test_NOT_BUILT assignment_test_NOT_BUILT)
+endif()

@@ -1,0 +1,273 @@
+Start testing: Jun 06 10:02 CEST
+----------------------------------------------------------
+1/10 Testing: ImageProcessingService.TestInitialState
+1/10 Test: ImageProcessingService.TestInitialState
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=ImageProcessingService.TestInitialState" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"ImageProcessingService.TestInitialState" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = ImageProcessingService.TestInitialState
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from ImageProcessingService
+[ RUN      ] ImageProcessingService.TestInitialState
+[       OK ] ImageProcessingService.TestInitialState (0 ms)
+[----------] 1 test from ImageProcessingService (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ImageProcessingService.TestInitialState" end time: Jun 06 10:02 CEST
+"ImageProcessingService.TestInitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: RobotController.TestInitialState
+2/10 Test: RobotController.TestInitialState
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=RobotController.TestInitialState" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"RobotController.TestInitialState" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RobotController.TestInitialState
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from RobotController
+[ RUN      ] RobotController.TestInitialState
+[       OK ] RobotController.TestInitialState (0 ms)
+[----------] 1 test from RobotController (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RobotController.TestInitialState" end time: Jun 06 10:02 CEST
+"RobotController.TestInitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: RobotController.TestTurningOn
+3/10 Test: RobotController.TestTurningOn
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=RobotController.TestTurningOn" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"RobotController.TestTurningOn" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RobotController.TestTurningOn
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from RobotController
+[ RUN      ] RobotController.TestTurningOn
+[       OK ] RobotController.TestTurningOn (0 ms)
+[----------] 1 test from RobotController (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RobotController.TestTurningOn" end time: Jun 06 10:02 CEST
+"RobotController.TestTurningOn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: RobotController.TestTurningOff
+4/10 Test: RobotController.TestTurningOff
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=RobotController.TestTurningOff" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"RobotController.TestTurningOff" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = RobotController.TestTurningOff
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from RobotController
+[ RUN      ] RobotController.TestTurningOff
+[       OK ] RobotController.TestTurningOff (0 ms)
+[----------] 1 test from RobotController (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RobotController.TestTurningOff" end time: Jun 06 10:02 CEST
+"RobotController.TestTurningOff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: VenipunctureService.TestInitialState
+5/10 Test: VenipunctureService.TestInitialState
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=VenipunctureService.TestInitialState" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"VenipunctureService.TestInitialState" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = VenipunctureService.TestInitialState
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from VenipunctureService
+[ RUN      ] VenipunctureService.TestInitialState
+[       OK ] VenipunctureService.TestInitialState (0 ms)
+[----------] 1 test from VenipunctureService (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VenipunctureService.TestInitialState" end time: Jun 06 10:02 CEST
+"VenipunctureService.TestInitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: VenipunctureService.TestHandleOn
+6/10 Test: VenipunctureService.TestHandleOn
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=VenipunctureService.TestHandleOn" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"VenipunctureService.TestHandleOn" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = VenipunctureService.TestHandleOn
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from VenipunctureService
+[ RUN      ] VenipunctureService.TestHandleOn
+[       OK ] VenipunctureService.TestHandleOn (0 ms)
+[----------] 1 test from VenipunctureService (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VenipunctureService.TestHandleOn" end time: Jun 06 10:02 CEST
+"VenipunctureService.TestHandleOn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: VenipunctureService.TestHandleOff
+7/10 Test: VenipunctureService.TestHandleOff
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=VenipunctureService.TestHandleOff" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"VenipunctureService.TestHandleOff" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = VenipunctureService.TestHandleOff
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from VenipunctureService
+[ RUN      ] VenipunctureService.TestHandleOff
+[       OK ] VenipunctureService.TestHandleOff (0 ms)
+[----------] 1 test from VenipunctureService (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VenipunctureService.TestHandleOff" end time: Jun 06 10:02 CEST
+"VenipunctureService.TestHandleOff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: Integration.TestFaultFromEnabled
+8/10 Test: Integration.TestFaultFromEnabled
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=Integration.TestFaultFromEnabled" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"Integration.TestFaultFromEnabled" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = Integration.TestFaultFromEnabled
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Integration
+[ RUN      ] Integration.TestFaultFromEnabled
+[       OK ] Integration.TestFaultFromEnabled (0 ms)
+[----------] 1 test from Integration (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Integration.TestFaultFromEnabled" end time: Jun 06 10:02 CEST
+"Integration.TestFaultFromEnabled" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: Integration.TestFaultFromEnabling
+9/10 Test: Integration.TestFaultFromEnabling
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=Integration.TestFaultFromEnabling" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"Integration.TestFaultFromEnabling" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = Integration.TestFaultFromEnabling
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Integration
+[ RUN      ] Integration.TestFaultFromEnabling
+[       OK ] Integration.TestFaultFromEnabling (0 ms)
+[----------] 1 test from Integration (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Integration.TestFaultFromEnabling" end time: Jun 06 10:02 CEST
+"Integration.TestFaultFromEnabling" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: Integration.ResetFault
+10/10 Test: Integration.ResetFault
+Command: "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/assignment_test" "--gtest_filter=Integration.ResetFault" "--gtest_also_run_disabled_tests"
+Directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test
+"Integration.ResetFault" start time: Jun 06 10:02 CEST
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = Integration.ResetFault
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Integration
+[ RUN      ] Integration.ResetFault
+[       OK ] Integration.ResetFault (0 ms)
+[----------] 1 test from Integration (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Integration.ResetFault" end time: Jun 06 10:02 CEST
+"Integration.ResetFault" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 06 10:02 CEST

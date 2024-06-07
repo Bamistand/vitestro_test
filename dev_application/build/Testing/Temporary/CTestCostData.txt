@@ -1,0 +1,11 @@
+ImageProcessingService.TestInitialState 1 0.00523196
+RobotController.TestInitialState 1 0.00450358
+RobotController.TestTurningOn 1 0.00226371
+RobotController.TestTurningOff 1 0.00295817
+VenipunctureService.TestInitialState 1 0.00230358
+VenipunctureService.TestHandleOn 1 0.00261592
+VenipunctureService.TestHandleOff 1 0.00294979
+Integration.TestFaultFromEnabled 1 0.00244879
+Integration.TestFaultFromEnabling 1 0.0027
+Integration.ResetFault 1 0.00263937
+---

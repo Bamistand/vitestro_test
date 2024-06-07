@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libassignment.a CMakeFiles/assignment.dir/robot_controller.cc.o CMakeFiles/assignment.dir/venipuncture_service.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libassignment.a
