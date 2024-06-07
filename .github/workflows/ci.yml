@@ -24,12 +24,11 @@ jobs:
 
       - name: Build the code
         run: |
-          cd dev_application
           cmake -B build -S .
           cd build
           make
 
       - name: Run tests
         run: |
-          cd dev_application/build
+          cd build
           make test || ./test/assignment_test
