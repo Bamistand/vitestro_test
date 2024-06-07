@@ -16,7 +16,8 @@ jobs:
 
     - name: Build code
       run: |
-        cmake -B build -S dev_application
+        cd dev_application
+        cmake -B build -S .
         cd build
         make
 
@@ -30,5 +31,5 @@ jobs:
 
     - name: Run tests
       run: |
-        cd build
+        cd dev_application/build
         make test
