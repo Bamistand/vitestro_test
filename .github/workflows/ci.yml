@@ -19,8 +19,7 @@ jobs:
       - name: Change to working directory
         run: cd dev_application
 
-      - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y cmake make g++
+  
 
       - name: Build the code
         run: |
