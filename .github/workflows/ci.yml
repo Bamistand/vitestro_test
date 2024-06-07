@@ -1,0 +1,36 @@
+name: C++ CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up C++ environment
+        uses: actions/setup-cpp@v1
+        with:
+          compiler: gcc
+
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y cmake make
+
+      - name: Build the code
+        run: |
+          cmake -B build -S .
+          cd build
+          make
+
+      - name: Run tests
+        run: |
+          cd build
+          make test || ./test/assignment_test
