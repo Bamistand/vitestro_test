@@ -1,4 +1,6 @@
-# Install script for directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application
+# Install script for directory: /home/runner/work/vitestro_test/vitestro_test/dev_application
+
+/home/runner/work/vitestro_test/vitestro_test/dev_application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +41,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/external/googletest/cmake_install.cmake")
-  include("/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/src/cmake_install.cmake")
-  include("/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/test/cmake_install.cmake")
+  include("/home/runner/work/vitestro_test/vitestro_test/dev_application/build/external/googletest/cmake_install.cmake")
+  include("/home/runner/work/vitestro_test/vitestro_test/dev_application/build/src/cmake_install.cmake")
+  include("/home/runner/work/vitestro_test/vitestro_test/dev_application/build/test/cmake_install.cmake")
 
 endif()
 
@@ -53,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/runner/work/vitestro_test/vitestro_test/dev_application/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

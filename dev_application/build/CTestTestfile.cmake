@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application
-# Build directory: /Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/build
+# Source directory: /home/runner/work/vitestro_test/vitestro_test/dev_application/
+# Build directory: /home/runner/work/vitestro_test/vitestro_test/dev_application/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
