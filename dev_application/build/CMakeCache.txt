@@ -336,7 +336,7 @@ gmock_IS_TOP_LEVEL:STATIC=OFF
 gmock_LIB_DEPENDS:STATIC=general;gtest;
 
 //Value Computed by CMake
-gmock_SOURCE_DIR:STATIC=/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/external/googletest/googlemock
+gmock_SOURCE_DIR:STATIC=/home/runner/work/vitestro_test/vitestro_test/dev_application/external/googletest/googlemock
 
 //Build all of Google Mock's own tests.
 gmock_build_tests:BOOL=OFF
@@ -351,7 +351,7 @@ googletest-distribution_BINARY_DIR:STATIC=/home/runner/work/vitestro_test/vitest
 googletest-distribution_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-googletest-distribution_SOURCE_DIR:STATIC=/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/external/googletest
+googletest-distribution_SOURCE_DIR:STATIC=/home/runner/work/vitestro_test/vitestro_test/dev_application/external/googletest
 
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/runner/work/vitestro_test/vitestro_test/dev_application/build/external/googletest/googlemock/gtest
@@ -360,7 +360,7 @@ gtest_BINARY_DIR:STATIC=/home/runner/work/vitestro_test/vitestro_test/dev_applic
 gtest_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-gtest_SOURCE_DIR:STATIC=/Users/mercy/Downloads/junior_devops_engineer_assignment/dev_application/external/googletest/googletest
+gtest_SOURCE_DIR:STATIC=/home/runner/work/vitestro_test/vitestro_test/dev_application/external/googletest/googletest
 
 //Build gtest's sample programs.
 gtest_build_samples:BOOL=OFF
